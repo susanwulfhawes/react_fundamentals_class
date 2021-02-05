@@ -1,10 +1,10 @@
 import './App.css';
-import Auth from "./components/challenges/Day03/Auth/Auth";
+import ChuckJoke from './components/challenges/day04/ChuckJoke';
 function App() {    // this is a root component
   
   return (
     <div>
-      <Auth/>
+      <ChuckJoke/>
     </div>
     
   );
